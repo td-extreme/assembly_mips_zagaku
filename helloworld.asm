@@ -18,31 +18,4 @@ main:
 	.data
 msg:	.ascii 	"Hello World\n"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ps: 	.ascii 	"P.S. "
-msg2:   .ascii  "You're lame, Tyler\n"
-
-
 # end hello.s
